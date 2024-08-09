@@ -16,7 +16,7 @@ from . import bl2tools
 class ConstructorMain(SDKMod):
     Name = "Snowbound"
     Version = "1.0.1"
-    Description = "Snowbound mod for Borderlands 2. Made with Juso's Constructor. \n\nSnowbound is a full game overhaul focused on fast paced, fluid combat. Experience BL2 as an old school run-and-gun style shooter with fundamental changes to movement and gunplay. Featuring 70+ brand new items, reworked uniques, dark magic elemental, more chests, tougher bosses, hybrids, and tons more. Did I mention rocket jumping?"
+    Description = "Snowbound pour Borderlands 2. Créé avec le Constructor de Juso. \n\nSnowbound est une révision complète basé sur du combat fluide au rythme soutenu. Expérimentez BL2 en un shooter old school au style run-and-gun avec des changements fondamentaux au mouvement et au tir. Ajoute 70+ nouveaux objets, des uniques retravaillés, l'élément de magie noire, plus de coffres, des boss plus compliqués, des hybrides, et bien plus encore. Ai-je mentionné le rocketjump?"
     Author = "Dr. Bones"
     Types = unrealsdk.ModTypes.Content
     SaveEnabledState: EnabledSaveType = EnabledSaveType.LoadOnMainMenu
@@ -84,9 +84,9 @@ class ConstructorMain(SDKMod):
         if not self.ini_works:
             pc = bl2tools.get_player_controller()
             pc.GFxUIManager.ShowTrainingDialog(
-                "Documents>My Games>Borderlands 2>WillowGame>Config>WillowEngine.ini Please Change "
-                "bForceNoMovies=TRUE to bForceNoMovies=FALSE.\nIf you do not change it, this mod won't work. Make sure "
-                "to restart the game after making these changes.",
+                "Documents>My Games>Borderlands 2>WillowGame>Config>WillowEngine.ini Veuillez changer "
+                "bForceNoMovies=TRUE à bForceNoMovies=FALSE.\nSi vous ne le changez pas, le mod ne marchera pas. Soyez sûrs "
+                "de redémarrer le jeu après avoir fait ces modifs.",
                 "Note", 10)
             raise Exception("Won't enable SB with bForceNoMovies .ini Tweak!")
 
@@ -98,7 +98,7 @@ class ConstructorMain(SDKMod):
         self.Assignor.Enable()
         self.Spawner.Enable()
         hookmanager.instance.Enable()
-        logging.logger.info(f"Everything setup and ready to play")
+        logging.logger.info(f"Tout est installé, paré au jeu!")
         if not self.config.getboolean("main", "has_seen_version_notes"):
             self.config.set("main", "has_seen_version_notes", "true")
             with open(os.path.join(self.FILE_PATH, "settings.ini"), "w") as f:
@@ -132,8 +132,8 @@ class ConstructorMain(SDKMod):
                         self.initial_spawn = False
                         hud.ClearTrainingText()
                         hud.AddTrainingText(" \n"
-                                            "Thanks for playing, and have fun!",
-                                            f"Snowbound {self.Version} Is Running",
+                                            "Merci de jouer à Snowbound, amusez-vous!",
+                                            f"Vous jouez sur Snowbound {self.Version}.",
                                             8.000000, (), "", False, 0,
                                             pc.PlayerReplicationInfo, True)
             return True
@@ -144,8 +144,8 @@ class ConstructorMain(SDKMod):
     def Disable(self) -> None:
         pc = bl2tools.get_player_controller()
         pc.GFxUIManager.ShowTrainingDialog(
-            f"If you are trying to disable {self.Name}, this is only possible by closing your game.\n"
-            f"This is due to too many changes that cannot be reverted.",
+            f"Si vous essayez de désactiver {self.Name}, ce n'est possible qu'en fermant votre jeu.\n"
+            f"C'est dû à trop de changements qui ne peuvent plus être révoqués.",                       # Leur sentence est irrévocable
             "Disable", 5)
         unrealsdk.RemoveHook("Engine.GameInfo.PostCommitMapChange","PassiveSkillTrigger")
 
@@ -237,12 +237,12 @@ class ConstructorMain(SDKMod):
     def show_version_notes(self) -> None:
         pc = bl2tools.get_player_controller()
         version_notes = f"<font color=\"#A83232\">Important Info!</font>\n" \
-                        f"- This mod is single player only. Multiplayer does not work due to technical limitations.\n" \
-                        f"- Sprinting has been disabled. Your default move speed is now faster than vanilla's sprint speed.\n" \
-                        f"- The Challenges tab ingame is now a list of dedicated drop sources, indicating the amount of unique items they can drop.\n" \
+                        f"- Ce mode ne marche qu'en solo. Il ne marchera pas en multijoueur à cause de limitations techniques.\n" \
+                        f"- La sprint a été désactivé. Votre vitesse de marche est plus rapide que le sprint en vanilla.\n" \
+                        f"- L'onglet Défis donne maintenant une liste de sources de loot dédié, indiquant le nombre d'items uniques qu'il peuvent donnner.\n" \
                         f"\n" \
-                        f"Please read the Readme file for more details.\n" \
-                        f"Thanks for playing, and have fun!" \
+                        f"Veuillez lire le fichier Readme.txt pour plus de détails.\n" \
+                        f"Merci de jouer à ce mod, amusez-vous!" \
 
         title = f"{self.Name} v.{self.Version} Info"
         pc.GFxUIManager.ShowTrainingDialog(version_notes, title, 4)
