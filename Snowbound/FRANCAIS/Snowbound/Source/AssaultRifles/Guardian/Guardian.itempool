@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Lilac.Psycho.GreenNinja
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_AssaultRifle.A_Weapons_Unique.AR_Dahl_3_Guardian
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

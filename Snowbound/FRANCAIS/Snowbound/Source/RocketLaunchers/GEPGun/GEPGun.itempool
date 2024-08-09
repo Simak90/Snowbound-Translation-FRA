@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Lilac.Psycho.CyanPale
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Launchers.A_Weapons_Legendary.RL_Vladof_GepGun
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

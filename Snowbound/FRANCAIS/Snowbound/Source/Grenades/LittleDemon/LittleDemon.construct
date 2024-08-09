@@ -1,0 +1,10 @@
+#InventoryBalanceDefinition
+GD_GrenadeMods.A_Item_Custom.GM_FusterCluck GM_Ironmouse
+#GrenadeModDefinition
+GD_GrenadeMods.A_Item_Custom.GrenadeMod_FusterCluck GrenadeMod_Ironmouse
+#GrenadeModPartDefinition
+GD_GrenadeMods.Payload.Payload_FusterCluck Payload_Ironmouse
+#ItemPartListCollectionDefinition
+GD_GrenadeMods.PartLists.Parts_FusterCluck Parts_Ironmouse
+#ItemNamePartDefinition
+GD_GrenadeMods.Title.Title_FusterCluck Title_Ironmouse

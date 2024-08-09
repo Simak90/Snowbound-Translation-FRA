@@ -1,0 +1,7 @@
+#WeaponBalanceDefinition
+GD_Weap_AssaultRifle.A_Weapons_Legendary.AR_Bandit_5_Madhouse AR_Bandit_Negev
+#WeaponPartDefinition
+GD_Weap_AssaultRifle.Barrel.AR_Barrel_Bandit_Madhouse AR_Barrel_Negev
+GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_BanditMade_5_Legendary Mat_Negev
+#WeaponNamePartDefinition
+GD_Weap_AssaultRifle.Name.Title_Bandit.Title_Legendary_Madhouse Title_Negev

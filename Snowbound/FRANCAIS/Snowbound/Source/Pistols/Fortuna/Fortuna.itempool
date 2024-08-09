@@ -1,0 +1,17 @@
+/None
+#GD_CustomItemPools_Flax.Mechro.FlaxPumpkinHeads
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Pistol.A_Weapons_Unique.Pistol_Hyperion_3_Fortuna
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Pistol.A_Weapons_Unique.Pistol_Hyperion_3_FortunaSR
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 0.050000
+bDropOnDeath True
++

@@ -1,0 +1,9 @@
+#WeaponBalanceDefinition
+GD_Sage_Weapons.Shotgun.SG_Jakobs_3_Hydra SG_Jakobs_KingOfEvil
+#WeaponPartDefinition
+GD_Sage_Weapons.Shotgun.SG_Barrel_Bandit_Hydra SG_Barrel_KingOfEvil
+GD_Sage_Weapons.ManufacturerMaterials.Mat_Jakobs_2_Hydra Mat_Jakobs_KingOfEvil
+#FiringModeDefinition
+GD_Sage_Weapons.FiringModes.Bullet_Shotgun_Hydra Bullet_Shotgun_KingOfEvil
+#WeaponNamePartDefinition
+GD_Sage_Weapons.Name.Title.Title_Unique_Hydra Title_KingOfEvil

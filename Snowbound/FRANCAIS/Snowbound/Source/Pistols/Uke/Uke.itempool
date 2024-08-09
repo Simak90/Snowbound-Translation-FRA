@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Flax.Assassin.FlaxSkins
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Pistol.A_Weapons_Unique.Pistol_Vladof_3_Uke
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

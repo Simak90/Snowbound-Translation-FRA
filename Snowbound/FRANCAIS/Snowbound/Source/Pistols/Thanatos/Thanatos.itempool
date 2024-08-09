@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Iris.Assassin.IrisHeads
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Pistol.A_Weapons_Legendary.Pistol_Bandit_5_Thanatos
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

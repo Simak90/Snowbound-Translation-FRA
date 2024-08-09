@@ -1,0 +1,8 @@
+#InventoryBalanceDefinition
+GD_Artifacts.A_Item_Unique.A_Terramorphous A_SoldierOfFortune
+#ArtifactDefinition
+GD_Artifacts.A_Item_Unique.Artifact_Terramorphous Artifact_SoldierOfFortune
+#ArtifactPartDefinition
+GD_Artifacts.Body.Body_Terramorphous Body_SoldierOfFortune
+#ItemPartListCollectionDefinition
+GD_Artifacts.PartLists_Unique.Parts_Terramorphous Parts_SoldierOfFortune

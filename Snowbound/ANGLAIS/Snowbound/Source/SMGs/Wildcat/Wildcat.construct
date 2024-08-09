@@ -1,0 +1,9 @@
+#WeaponBalanceDefinition
+GD_Weap_SMG.A_Weapons_Legendary.SMG_Dahl_5_Emperor SMG_Dahl_Wildcat
+#WeaponPartDefinition
+GD_Weap_SMG.Barrel.SMG_Barrel_Dahl_Emperor SMG_Barrel_Wildcat
+GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_5_Legendary Mat_Dahl_Wildcat
+#FiringModeDefinition
+GD_Weap_SMG.FiringModes.Bullet_SMG_Default Bullet_SMG_Wildcat
+#WeaponNamePartDefinition
+GD_Weap_SMG.Name.Title.Title_Legendary_Dahl_Emperor Title_Wildcat

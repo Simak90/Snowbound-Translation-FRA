@@ -1,0 +1,7 @@
+#WeaponBalanceDefinition
+GD_Weap_AssaultRifle.A_Weapons_Legendary.AR_Dahl_5_Veruc AR_Dahl_Milk
+#WeaponPartDefinition
+GD_Weap_AssaultRifle.Barrel.AR_Barrel_Dahl_Veruc AR_Barrel_Milk
+GD_Weap_AssaultRifle.ManufacturerMaterials.Mat_Dahl_1 Mat_Dahl_Milk
+#WeaponNamePartDefinition
+GD_Weap_AssaultRifle.Name.Title_Dahl.Title_Legendary_Veruc Title_Legendary_Milk

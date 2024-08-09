@@ -1,0 +1,9 @@
+#WeaponBalanceDefinition
+GD_Weap_Pistol.A_Weapons_Unique.Pistol_Vladof_3_Veritas Pistol_Vladof_3_Uke
+#WeaponPartDefinition
+GD_Weap_Pistol.Barrel.Pistol_Barrel_Hyperion_Veritas Pistol_Barrel_Hyperion_Uke
+GD_Weap_Pistol.ManufacturerMaterials.Mat_Vladof_3_Veritas Mat_Vladof_3_Uke
+#FiringModeDefinition
+GD_Weap_Pistol.FiringModes.Bullet_Pistol_Default Bullet_Pistol_Uke
+#WeaponNamePartDefinition
+GD_Weap_Pistol.Name.Title.Title__Unique_Veritas Title__Unique_Uke

@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Lilac.Psycho.DahlEpic
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_SniperRifles.A_Weapons_Unique.Sniper_Dahl_3_Intervention
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

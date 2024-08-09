@@ -1,0 +1,11 @@
+#WeaponBalanceDefinition
+GD_Weap_Launchers.A_Weapons_Legendary.RL_Torgue_5_Nukem RL_Torgue_DDT
+#WeaponPartDefinition
+GD_Weap_Launchers.Barrel.L_Barrel_Torgue_Nukem L_Barrel_Torgue_DDT
+GD_Weap_Launchers.ManufacturerMaterials.Mat_Torgue_5_Legendary Mat_Torgue_DDT
+#FiringModeDefinition
+GD_Weap_Launchers.FiringModes.FM_Rocket_Torgue FM_Rocket_Torgue_DDT
+#WeaponNamePartDefinition 
+GD_Weap_Launchers.Name.Title_Torgue.Title_Legendary_Nukem Title_DDT
+#ProjectileDefinition
+GD_Weap_Launchers.Projectiles.Projectile_Rocket_Torgue Projectile_Rocket_DDT

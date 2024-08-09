@@ -1,0 +1,11 @@
+#WeaponBalanceDefinition
+GD_Weap_Shotgun.A_Weapons_Unique.SG_Bandit_3_RokSalt SG_Bandit_Majima
+#WeaponPartDefinition
+GD_Weap_Shotgun.Barrel.SG_Barrel_Jakobs_RockSalt SG_Barrel_Majima
+GD_Weap_Shotgun.ManufacturerMaterials.Mat_Bandit_3_RokSalt Mat_Bandit_Majima
+#FiringModeDefinition
+GD_Weap_Shotgun.FiringModes.Bullet_Shotgun_Default Bullet_Shotgun_Majima
+#WeaponNamePartDefinition
+GD_Weap_Shotgun.Name.Title.Title__Unique_RokSalt Title_Unique_Majima
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_MajimaEverywhere

@@ -1,0 +1,11 @@
+#GD_Mercenary_Streaming_SF
+GD_Mercenary_Skills.Misc.Init_KeepFiring_FireIntervalCalc
+
+#GD_Mercenary_Streaming_SF
+GD_Mercenary_Skills.Misc.Att_KeepFiring_MaxFireRateBonus
+
+#GD_Mercenary_Streaming_SF
+GD_Mercenary_Skills.Misc.Init_KeepFiring_TotalTimeFiringCalc
+
+#GD_Mercenary_Streaming_SF
+GD_Mercenary_Skills.Misc.Att_KeepFiring_TimeActive

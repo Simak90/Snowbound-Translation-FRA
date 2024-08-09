@@ -1,0 +1,9 @@
+#WeaponBalanceDefinition
+GD_Weap_SMG.A_Weapons_Unique.SMG_Maliwan_3_GoodTouch SMG_Maliwan_3_Degreaser
+#WeaponPartDefinition
+GD_Weap_SMG.Barrel.SMG_Barrel_Maliwan_GoodTouch SMG_Barrel_Maliwan_Degreaser
+GD_Weap_SMG.ManufacturerMaterials.Mat_Maliwan_3_GoodTouch Mat_Maliwan_3_Degreaser
+#FiringModeDefinition
+GD_Weap_SMG.FiringModes.Bullet_Plasma_Default Bullet_Plasma_Degreaser
+#WeaponNamePartDefinition
+GD_Weap_SMG.Name.Title.Title__Unique_GoodTouch Title__Unique_Degreaser

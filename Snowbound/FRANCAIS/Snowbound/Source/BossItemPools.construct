@@ -1,0 +1,698 @@
+- Bad Maw
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_BadMaw
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_BadMaw
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_BadMaw
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_BadMaw
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_BadMaw
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_BadMaw
+
+- Son of Mothrakk
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_SonOfMothrakk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_SonOfMothrakk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_SonOfMothrakk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_SonOfMothrakk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_SonOfMothrakk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_SonOfMothrakk
+
+- Bunker
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Bunker
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Bunker
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Bunker
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Bunker
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Bunker
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Bunker
+
+- Wilhelm
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Wilhelm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Wilhelm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Wilhelm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Wilhelm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Wilhelm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Wilhelm
+
+- Knuckle Dragger
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_KnuckleDragger
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_KnuckleDragger
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_KnuckleDragger
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_KnuckleDragger
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_KnuckleDragger
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_KnuckleDragger
+
+- Boom Bewm
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_BoomBewm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_BoomBewm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_BoomBewm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_BoomBewm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_BoomBewm
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_BoomBewm
+
+- Captain Flynt
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_CptFlynt
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_CptFlynt
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_CptFlynt
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_CptFlynt
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_CptFlynt
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_CptFlynt
+
+- Mortar
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Mortar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Mortar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Mortar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Mortar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Mortar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Mortar
+
+- Saturn
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Saturn
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Saturn
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Saturn
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Saturn
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Saturn
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Saturn
+
+- Four Assassins
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_FourAssassins
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_FourAssassins
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_FourAssassins
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_FourAssassins
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_FourAssassins
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_FourAssassins
+
+- Black Queen
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_BlackQueen
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_BlackQueen
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_BlackQueen
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_BlackQueen
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_BlackQueen
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_BlackQueen
+
+- Blue
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Blue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Blue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Blue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Blue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Blue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Blue
+
+- Boll
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Boll
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Boll
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Boll
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Boll
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Boll
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Boll
+
+- Bone Head 2.0
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_BoneHead2
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_BoneHead2
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_BoneHead2
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_BoneHead2
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_BoneHead2
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_BoneHead2
+
+- Donkey Mong
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_DonkeyMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_DonkeyMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_DonkeyMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_DonkeyMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_DonkeyMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_DonkeyMong
+
+- Doc Mercy
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_DocMercy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_DocMercy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_DocMercy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_DocMercy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_DocMercy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_DocMercy
+
+- Splinter Group
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Splinter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Splinter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Splinter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Splinter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Splinter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Splinter
+
+- Foreman
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Foreman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Foreman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Foreman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Foreman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Foreman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Foreman
+
+- Gettle and Mobley
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_GettleMobley
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_GettleMobley
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_GettleMobley
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_GettleMobley
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_GettleMobley
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_GettleMobley
+
+- Henry
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Henry
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Henry
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Henry
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Henry
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Henry
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Henry
+
+- Hunter Helquist
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_DJHyperion
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_DJHyperion
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_DJHyperion
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_DJHyperion
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_DJHyperion
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_DJHyperion
+
+- King Mong
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_KingMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_KingMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_KingMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_KingMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_KingMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_KingMong
+
+- Laney White
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_LaneyWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_LaneyWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_LaneyWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_LaneyWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_LaneyWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_LaneyWhite
+
+- Madame Von Bartlesby
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Madame
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Madame
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Madame
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Madame
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Madame
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Madame
+
+- Mad Mike
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_MadMike
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_MadMike
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_MadMike
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_MadMike
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_MadMike
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_MadMike
+
+- Mad Dog
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_MadDog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_MadDog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_MadDog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_MadDog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_MadDog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_MadDog
+
+- McNally
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_McNally
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_McNally
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_McNally
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_McNally
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_McNally
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_McNally
+
+- MidgeMong
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_MidgeMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_MidgeMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_MidgeMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_MidgeMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_MidgeMong
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_MidgeMong
+
+- Old Slappy
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_OldSlappy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_OldSlappy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_OldSlappy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_OldSlappy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_OldSlappy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_OldSlappy
+
+- Pimon and Tumbaa
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_PimonTumbaa
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_PimonTumbaa
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_PimonTumbaa
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_PimonTumbaa
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_PimonTumbaa
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_PimonTumbaa
+
+- Rakkman
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Rakkman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Rakkman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Rakkman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Rakkman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Rakkman
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Rakkman
+
+- Savage Lee
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_SavageLee
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_SavageLee
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_SavageLee
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_SavageLee
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_SavageLee
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_SavageLee
+
+- Sinkhole
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Sinkhole
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Sinkhole
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Sinkhole
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Sinkhole
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Sinkhole
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Sinkhole
+
+- Scorch
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Scorch
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Scorch
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Scorch
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Scorch
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Scorch
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Scorch
+
+- Smash Head
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_SmashHead
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_SmashHead
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_SmashHead
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_SmashHead
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_SmashHead
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_SmashHead
+
+- Dukino's Mom
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Dukino
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Dukino
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Dukino
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Dukino
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Dukino
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Dukino
+
+- Incinerator Clayton
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Clayton
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Clayton
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Clayton
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Clayton
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Clayton
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Clayton
+
+- Mick Zaford and Tector & Jimbo
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_ClanWar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_ClanWar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_ClanWar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_ClanWar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_ClanWar
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_ClanWar
+
+- Badass Creeper
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_CreeperAwwMan
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_CreeperAwwMan
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_CreeperAwwMan
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_CreeperAwwMan
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_CreeperAwwMan
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_CreeperAwwMan
+
+- Prospector Zeke
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_ProspectorZeke
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_ProspectorZeke
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_ProspectorZeke
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_ProspectorZeke
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_ProspectorZeke
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_ProspectorZeke
+
+- Spycho
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Spycho
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Spycho
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Spycho
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Spycho
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Spycho
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Spycho
+
+- Sheriff of Lynchwood and Deputy Winger
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_SheriffDeputy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_SheriffDeputy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_SheriffDeputy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_SheriffDeputy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_SheriffDeputy
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_SheriffDeputy
+
+- DLC 1 Herle
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Herle
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Herle
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Herle
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Herle
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Herle
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Herle
+
+- DLC 1 Grendel
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Grendel
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Grendel
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Grendel
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Grendel
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Grendel
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Grendel
+
+- DLC 1 Big Sleep
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_BigSleep
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_BigSleep
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_BigSleep
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_BigSleep
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_BigSleep
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_BigSleep
+
+- DLC 1 Mr. Bubbles
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_MrBubbles
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_MrBubbles
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_MrBubbles
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_MrBubbles
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_MrBubbles
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_MrBubbles
+
+- DLC 1 Lt. Hoffman and Lt. White
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_HoffmanWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_HoffmanWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_HoffmanWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_HoffmanWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_HoffmanWhite
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_HoffmanWhite
+
+- DLC 2 Pyro Pete Non-Raid
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_PyroPeteRegular
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_PyroPeteRegular
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_PyroPeteRegular
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_PyroPeteRegular
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_PyroPeteRegular
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_PyroPeteRegular
+
+- DLC 2 Motor Mama
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_MotorMama
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_MotorMama
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_MotorMama
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_MotorMama
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_MotorMama
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_MotorMama
+
+- DLC 2 Badassasaurus
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Badassasaurus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Badassasaurus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Badassasaurus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Badassasaurus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Badassasaurus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Badassasaurus
+
+- DLC 3 Jackenstein
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Jackenstein
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Jackenstein
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Jackenstein
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Jackenstein
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Jackenstein
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Jackenstein
+
+- DLC 3 Bloodtail
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Bloodtail
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Bloodtail
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Bloodtail
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Bloodtail
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Bloodtail
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Bloodtail
+
+- DLC 3 Arizona
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Arizona
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Arizona
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Arizona
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Arizona
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Arizona
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Arizona
+
+- DLC 3 Bulstoss
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Bulstoss
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Bulstoss
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Bulstoss
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Bulstoss
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Bulstoss
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Bulstoss
+
+- DLC 3 Rogue
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Rogue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Rogue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Rogue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Rogue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Rogue
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Rogue
+
+- DLC 3 Bulwark
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Bulwark
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Bulwark
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Bulwark
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Bulwark
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Bulwark
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Bulwark
+
+- DLC 3 Dexiduous the Big Stinky Poo Poo Head That No One Likes
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Dexi
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Dexi
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Dexi
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Dexi
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Dexi
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Dexi
+
+- DLC 4 Mister Boney Pants Guy
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_BoneyPants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_BoneyPants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_BoneyPants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_BoneyPants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_BoneyPants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_BoneyPants
+
+- DLC 4 Sorceror's Daughter
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_SorcerorDaughter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_SorcerorDaughter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_SorcerorDaughter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_SorcerorDaughter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_SorcerorDaughter
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_SorcerorDaughter
+
+- DLC 4 Handsome Sorceror
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_HandsomeSorceror
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_HandsomeSorceror
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_HandsomeSorceror
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_HandsomeSorceror
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_HandsomeSorceror
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_HandsomeSorceror
+
+- DLC 4 Arguk the Butcher
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Arguk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Arguk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Arguk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Arguk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Arguk
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Arguk
+
+- DLC 4 Gold Golem
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_GoldGolem
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_GoldGolem
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_GoldGolem
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_GoldGolem
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_GoldGolem
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_GoldGolem
+
+- DLC 4 Warlord Grug
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Grug
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Grug
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Grug
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Grug
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Grug
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Grug
+
+- DLC 4 Warlord Slog
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Slog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Slog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Slog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Slog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Slog
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Slog
+
+- DLC 4 Warlord Turge
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Turge
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Turge
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Turge
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Turge
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Turge
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Turge
+
+- DLC 5 Cassius
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Cassius
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Cassius
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Cassius
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Cassius
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Cassius
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Cassius
+
+- DLC 5 Dark Web
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_DarkWeb
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_DarkWeb
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_DarkWeb
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_DarkWeb
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_DarkWeb
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_DarkWeb
+
+- DLC 5 Lt. Bolson, Lt. Hoffman, Lt. Angvar, Lt. Tetra
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_FourLieutenants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_FourLieutenants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_FourLieutenants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_FourLieutenants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_FourLieutenants
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_FourLieutenants
+
+- DLC 5 Uranus
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Uranus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Uranus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Uranus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Uranus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Uranus
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Uranus
+
+- HH 1 Jacque O Lantern
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_JacqueOLantern
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_JacqueOLantern
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_JacqueOLantern
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_JacqueOLantern
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_JacqueOLantern
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_JacqueOLantern
+
+- HH 2 WattleGobbler
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_WattleGobbler
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_WattleGobbler
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_WattleGobbler
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_WattleGobbler
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_WattleGobbler
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_WattleGobbler
+
+- HH 3 Tinder Snowflake
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_TinderSnowflake
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_TinderSnowflake
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_TinderSnowflake
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_TinderSnowflake
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_TinderSnowflake
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_TinderSnowflake
+
+- HH 4 Colin and Bridget Hodunk
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_ColinBridget
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_ColinBridget
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_ColinBridget
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_ColinBridget
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_ColinBridget
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_ColinBridget
+
+- HH 5 Sparky, Son of Flynt
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_1_Sparky
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_2_Sparky
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_3_Sparky
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_4_Sparky
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_5_Sparky
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_6_Sparky
+
+- Raid Bosses
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Terra_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Terra_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Verm_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Verm_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Hyperius_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Hyperius_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_MasterGee_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_PyroPete_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_PyroPete_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Vorac_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Vorac_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Dragons_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_Dragons_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_SonOfCraw_Seraph
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_SonOfCraw_Pearl
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_OMGWTH_Dedicated_A
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Drop_OMGWTH_Dedicated_B
+GD_Orchid_ItemPools.SeraphCrystal.Pool_SeraphCrystal_10_Drop Pool_SeraphCrystal_New_15_Drop
+GD_Orchid_ItemPools.SeraphCrystal.Pool_SeraphCrystal_10_Drop Pool_SeraphCrystal_New_30_Drop
+
+- Raid Boss Keys
+#ItemPoolDefinition
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Key_D
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Key_P
+GD_Itempools.Runnables.Pool_Bonehead2 Pool_Key_E
+
+- Game stage limiter
+#AttributeDefinition
+GD_Itempools.Scheduling.Gamestage_07 Gamestage_40
+GD_Itempools.Scheduling.Gamestage_07 Gamestage_80

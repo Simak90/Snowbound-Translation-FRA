@@ -1,0 +1,17 @@
+/None
+#GD_CustomItemPools_Flax.Mercenary.FlaxSkins
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Shotgun.A_Weapons_Unique.SG_Jakobs_3_SuperShotgun
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_Shotgun.A_Weapons_Unique.SG_Jakobs_3_SuperShotgunSR
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 0.050000
+bDropOnDeath True
++

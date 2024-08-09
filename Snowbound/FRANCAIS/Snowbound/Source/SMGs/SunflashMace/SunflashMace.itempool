@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Flax.Mechro.FlaxSkins
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_SMG.A_Weapons_Legendary.SMG_Dahl_5_Sunflash
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

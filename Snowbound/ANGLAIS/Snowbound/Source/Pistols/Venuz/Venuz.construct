@@ -1,0 +1,9 @@
+#WeaponBalanceDefinition
+GD_Weap_Pistol.A_Weapons_Unique.Pistol_Jakobs_3_Judge Pistol_Jakobs_3_Venuz
+#WeaponPartDefinition
+GD_Weap_Pistol.Barrel.Pistol_Barrel_Tediore_Judge Pistol_Barrel_Tediore_Venuz
+GD_Weap_Pistol.ManufacturerMaterials.Mat_Jakobs_3_Judge Mat_Jakobs_3_Venuz
+#FiringModeDefinition
+GD_Weap_Pistol.FiringModes.Bullet_Pistol_Default Bullet_Pistol_Venuz
+#WeaponNamePartDefinition
+GD_Weap_Pistol.Name.Title.Title__Unique_Judge Title__Unique_Venuz

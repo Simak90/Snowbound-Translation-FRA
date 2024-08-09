@@ -1,0 +1,211 @@
+BL2 Snowbound Change List - Release v1.0.1
+
+=========================
+Change List Contents
+=========================
+1 - Player
+2 - Items
+3 - Enemies
+4 - Loot
+5 - General
+6 - Included Mods
+7 - Optionals
+
+
+
+=========================
+1 - Player
+=========================
+
+- Sprinting is disabled. Walking speed has been increased to be faster than vanilla sprint speed.
+- Increased air control.
+- Reduced mass, which increases the amount of knockback recieved.
+- FFYL time is shorter, but recieve full health and shields when regaining second wind. 
+- Health gate protection is shorter.
+- Each vault hunter now has a unique Class Ability, a skill that is always active and does not require any skill points.
+	- Axton: Can throw grenades while in FFYL.
+	- Maya: Higher health regen from dark magic status effects, longer FFYL duration.
+	- Zero: Higher jump height, faster reload speed.
+	- Salvador: Regenerate a small portion of ammo for all weapons.
+	- Gaige: Lighter mass (allowing Gaige to blast jump further), melee attacks deal shock damage.
+	- Krieg: Increased melee range.
+- Action Skill changes:
+	- Axton: Sabre turret can be recalled at any distance using the action skill button (can no longer press use next to the turret). Infinite duration.
+	  Cooldown decreased to 18 sec.
+	- Salvador: Gunzerking is now toggleable with infinite duration. While gunzerking, your shield depletes, and your accuracy and reload speed decrease.
+	  Cooldown decreased to 3 sec.
+	- Krieg: Buzzaxe Rampage is now toggleable with infinite duration. Cooldown decreased to 5 sec.
+	- Gaige: Deathtrap can be recalled at any distance using the action skill button. Cooldown decreased to 25 sec.
+- Salvador's skill changes: 
+	- Fistful of Hurt: Cooldown reduced to 0.5 seconds.
+	- Come At Me Bro: While Gunzerking, you gain gun damage, melee damage, fire rate, reload speed, and non-elemental damage resistance. 
+	  However, your health rapidly drains.
+	- I'm Already Ready skill: Increases shield recharge rate and shield recharge delay.
+	- Keep It Piping Hot skill: When you one-shot kill an enemy, gain increased reload speed for a short time.
+	- Last Longer: Increases FFYL time.
+	- Get Some: Hitting an enemy with a melee increases fire rate for 3 seconds.
+	- Yipee Kay Yay: While Gunzerking, killing an enemy with a critical hit restores health.
+- Maya's skill changes:
+	- Restoration: Grants lifesteal.
+	- Res: All health regen and lifesteal effects are more effective. However, your shield no longer recharges over time.
+- Axton's skill changes:
+	- Resourceful: When you instantly kill an enemy with grenade damage, a grenade is refunded and you gain ammo regen.
+	- Impact: Changed gun damage to explosive damage.
+	- Battlefront: Changed gun damage to explosive damage.
+	- Duty Calls: Applies to NE and explosive guns.
+	- Ranger: Changed gun damage to explosive damage.
+	- Do Or Die: Increases grenade and launcher damage.
+	- Sentry: Increases turret health.
+	- Gemini: Skill renamed to Titanium Turret. Grants damage resistance and hp regen to your turret. While turret is active, you also gain hp regen.
+- Gaige's skill changes: 
+	- Anarchy: Stacks are now more condensed, with 1 stack equivalent to 10 stacks in vanilla (Stacks grant +17.5% damage, -17.50% accuracy, caps at 15 stacks).
+	  All Anarchy related skills have been adjusted to accomadate for this change.
+	- Discord: Moved to Tier 1. Increased effects.
+	- Smaller Faster Lighter: Caps at 3 skill points. Increased effects.
+	- 20% Cooler: Increases Shield Capacity, Shield Recharge Rate, Shock Damage, and Melee Damage. Decreases Shield Recharge Delay.
+- Krieg's skill changes:
+	- Added a new skill for Krieg, Maintain the Mania, a 1-point skill at tier 5 in Mania. Significantly increases melee damage, significantly reduces bullet damage.
+	- Buzz Axe Bombardier: Can be used to blast jump.
+	- Blood Trance: Increases fire rate and decreases accuracy per bloodlust stack.
+	- Bloodsplosion: Bloodsplosions are no longer blocked by collision, and have slightly increased blast radius.
+	- Fuel the Rampage: Hitting an enemy with a melee attack increases movement speed and grenade damage.
+	- Thrill of the Kill: No longer grants a high bonus on the first skill point invested.
+	- Redeem the Soul: You can throw grenades in FFYL. Increases FFYL time, and movement speed and grenade damage in FFYL.
+	- Silence the Voices: Melee increase is lowered, reduces shield capacity and rate, and increases shield delay. Krieg no longer hits himself.
+	- Release the Beast: Activates at full hp. Can only toss one 'XL Buzzaxe' that deals high damage (and high blast jump power with Buzz Axe Bombardier).
+	- Hellfire Halitosis: Increased animation speed, allowing you to perform other actions while active.
+
+=========================
+2 - Items
+=========================
+
+- Added 70+ new unique items.
+	- No replacements!
+- All non-unique weapons can spawn with new barrels that affect how the weapon fires.
+- Many weapons, grenades and more can now be used to blast jump. The blast jump power of an item is listed on the item card.
+- Base weapon changes:
+	- Adjustments made to base stats of all weapon types (Spreadsheet work in progress, coming soon!).
+	- Increased bullet speeds for many weapon types.
+	- Sniper rifles have increased aim speed, and the crosshair will no longer subtly sway while aiming.
+	- Launcher ammo is as common as other ammo types.
+- Part changes:
+	- Adjustments made to base stats of almost all parts (Spreadsheet work in progress, coming soon!).
+	- Matching manufacturer bonuses have been removed.
+- Unique items:
+	- Dozens of unique items from the vanilla game have had stat tweaks or complete reworks. Each unique item will have a description underneath its red text
+	  that will explain its effects. 
+	- Legendary rarity has been split into two different colors, yellow and orange. Yellow legendary items are items with tweaked stats or minor special effects,
+	  while orange legendary items have notable major special effects. Yellow legendaries are more common than orange legendaries, both in world drops and 
+	  dedicated drops. Any item that was blue or purple rarity in vanilla is now legendary.
+	- All unique weapons have a chance to spawn with a hybrid grip part. This grants the effects of another unique item. Hybrid items will have a unique prefix
+	  and have a second red text on the item card. Each weapon type has 3 hybrids available.
+- Elements:
+	- Dark Magic elemental can be found as a new element on weapons. Dark magic weapons grant lifesteal, and regenerates health when a status effect is inflicted.
+	- Slag elemental no longer causes increased damage taken. Instead, slag causes projectiles to be slower and damage dealt to be reduced.
+	- Fire, shock, and corrosive status effects all last 6 seconds.
+
+=========================
+3 - Enemies
+=========================
+
+- Enemy guns now fire slower bullets with clearer visual effects.
+- Increased the chances of enemies using higher quality items.
+- Increased enemy movement speeds and animation speeds. 
+- An enemy receiving knockback will no longer play an animation when landing.
+- Bosses and certain enemies are equipped with new unique guns.
+
+=========================
+4 - Loot
+=========================
+
+Note:
+Dedicated loot sources can be found on this spreadsheet: https://docs.google.com/spreadsheets/d/19WyUAAnWkFN9miO_1NODpJqXRatQis4ZNDLJALc2vHk/edit?usp=sharing
+However, I encourage you to NOT use this spreadsheet! The challenges tab ingame has been replaced with the Codex. This will identify each dedicated drop source,
+and show how many drops they have. This is the best way to find dedicated drops spoiler-free.
+
+- Adjusted rarity weighting, blue rarity items and above are more common.
+- Legendary and pearlescent world drop pools have been expanded to include all items.
+- Raid bosses can drop their full loot in any playthrough. Higher playthroughs drop more seraph crystals.
+- Dedicated drop changes:
+	- All dedicated drops roll independently of each other, meaning multiple dedicateds can drop at once.
+	- Yellow legendary drop odds are 25%.
+	- Orange legendary drop odds are 15%.
+	- Legendary COM drop odds are 5%.
+	- Tina COM drop odds are 25% (any rarity).
+	- Raid bosses drop a seraph at 100% odds, but can only drop one at a time.
+	- Raid bosses drop a pearlescent at 33% odds, but can only drop one at a time.
+- Gold chest changes:
+	- Costs 5 seraph crystals to open.
+	- Has a chance to give purple items, gemstone weapons, etech weapons, and legendary items.
+	- Has a chance to give pearlescent items in UVHM.
+- New chests have appeared in the following maps:
+	- Southern Shelf
+	- Southern Shelf Bay
+	- Southpaw Steam and Power
+	- Frostburn Canyon
+	- Tundra Express
+	- Highlands Outwash
+	- Caustic Caverns
+	- Wildlife Preserve
+	- Opportunity
+	- Thousand Cuts
+	- The Bunker
+	- Sawtooth Cauldron
+	- Vault of the Warrior
+	- Digistruct Peak
+- All enemies have a small chance to drop a seraph crystal. Higher tier badass enemies have a higher chance.
+- Torgue vendor legendary pool has been expanded.
+
+=========================
+5 - General
+=========================
+
+- New echo logs are now located across several maps, which describe a brief narrative on the item card about the story behind Snowbound.
+- The challenges tab ingame has been replaced with the Codex. This will identify each dedicated drop source, and show how many drops they have.
+- Health and shield pickups now drop more frequently from enemies, and have a glow around them to help identify pickups more easily.
+- Scaling changes:
+	- Adjusted the universal scaling formula (from 1.13 to 1.10, closer to The Pre-Sequel's scaling).
+	- Adjusted scaling for player health, player shields, and enemy health.
+	- Adjusted scaling for damage values to enemies with higher/lower levels than the player.
+	- Adjusted UVHM scaling. Enemies will now grow progressively stronger through levels 50-80.
+- Rarity colors:
+	- Split legendary into yellow and orange.
+	- Adjusted money color to pale green.
+	- Adjusted shield booster colors to pale blue.
+	- Effervescent rarity has been removed (for now), all previous effervescent items are now orange legendary.
+- Adjusted ammo capacity base values and SDU upgrade values.
+- Enemies now respawn on level transitions.
+- Slightly increased interaction and pickup distance.
+- One-way fast travel stations can now be travelled to.
+- Removed BAR stats.
+
+=========================
+6 - Included mods
+=========================
+
+Snowbound includes several other mods built-in. All mods used with permission from the respective author. Mods include:
+- Unofficial Community Patch 5 (by Shadowevil and the UCP team)
+- Fast Travel Portal Disabler (by FromDarkHell)
+- Respawning Enemies and Allies (by Our Lord & Savior Gabe Newell)
+- No More Enemy Bullet Reflection (by Aaron0000)
+- Vendors Enhanced (by Kuma, Jim Raven, and the_Nocturni)
+- BL2 Mega TimeSaver XL (by Apocalyptech and Gronp)
+- Manufacturer Sorted Vending Machines (by Our Lord and Savior Gabe Newell)
+- BL2 Early Bloomer (by Apocalyptech)
+- Remove Level Variance (from BL2 Reborn, by Kuma)
+
+Compatibility with other mods is not guaranteed and may cause unintended behaviors.
+To add other text mods to run alongside Snowbound, open SB.blcm in OpenBLCMM and click File > Import Mod Files.
+
+=========================
+7 - Optionals
+=========================
+
+In the 'Source' folder, opening the 'SB.blcm' file with OpenBLCMM will show optional categories that you can configure. 
+Expand the 'Optional Settings' category and select from the available options:
+- Shield Charge Auto Pickup: Toggles shield boosters to be automatically picked up. Enabled by default.
+- Minimap Red Dots: Toggles visibility of red dots for enemies on the minimap. Enabled by default.
+- Family Friendly Mode: Allows you to remove many swear words from item names and descriptions. Profanity enabled by default.
+- Viewmodel Style: Toggles between regular viewmodel mode, centered viewmodels, and lefthanded viewmodels. Regular by default.
+- Echo Log Spawns: Toggles whether SB echo logs will spawn or not. Enabled by default.
+- No Checkpoint Mode: Disables the ability to respawn at New-U stations, requiring a save-quit in order to return. Checkpoints enabled by default.

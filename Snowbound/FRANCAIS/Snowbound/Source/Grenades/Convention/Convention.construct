@@ -1,0 +1,10 @@
+#InventoryBalanceDefinition
+GD_GrenadeMods.A_Item_Legendary.GM_Quasar GM_Convention
+#GrenadeModDefinition
+GD_GrenadeMods.A_Item_Legendary.GrenadeMod_Quasar GrenadeMod_Convention
+#GrenadeModPartDefinition
+GD_GrenadeMods.Payload.Payload_Quasar Payload_Convention
+#ItemPartListCollectionDefinition
+GD_GrenadeMods.PartLists.Parts_Quasar Parts_Convention
+#ItemNamePartDefinition
+GD_GrenadeMods.Title.Title_Quasar Title_Convention

@@ -1,0 +1,263 @@
+BL2 Snowbound Version History - Release v1.0.1
+
+-------------------------
+Release v1.0.1 (8/7/2024)
+-------------------------
+
+- Added more info to the readme file.
+- Tediore Etech RLs now use purple rarity skin.
+- Prevented certain secret items from spawning earlier than intended.
+- Savage Lee now only spawns in one location at a time, similar to other world bosses with multiple spawn locations (thanks to ZetaDaemon).
+- Fixed several typos (thanks to Simak90).
+
+
+=========================
+Release v1.0.0 (8/1/2024)
+=========================
+
+General:
+- Holy moly it's actually done!
+- Added echo logs across several maps, which describe a breif narrative on the item card about the story behind Snowbound.
+- Dark Magic status effects now deals DoT damage, and have different visual effects applied to enemies to differentiate them from slag.
+
+Player:
+- Krieg's Fuel the Rampage skill: Hitting an enemy with a melee attack increases movement speed and grenade damage.
+- Krieg's Redeem the Soul skill: You can throw grenades in FFYL. Increases FFYL time, and movement speed and grenade damage in FFYL.
+- Krieg's Light the Fuse skill: Increased the thrown dynamite blast radius.
+- Sal's I'm Already Ready skill: Increases shield recharge rate and shield recharge delay.
+- Sal's Keep It Piping Hot skill: When you one-shot kill an enemy, gain increased reload speed for a short time.
+
+Items:
+- Added a new pearl rocket launcher "Yharon", which drops from Ancient Dragons.
+- Adjusted certain parts, relics and class mods to have more useful effects.
+- Adjusted scope part stats.
+- World drop legendary rates have been adjusted (again).
+- Fixed some unique item descriptions and set bonus text color.
+- Updates to Hellfire, Veritas, Volcano, Aequitas, Order, Shredifier hybrid, Striker hybrid, Degreaser (and hybrid), Sorceress, Sunflash Mace, 
+  Rocket Jumper, King of Evil, The Vale, Inspire, Soldier of Fortune.
+
+Enemies:
+- Gave Etech Bandit ARs to Ambush Commanders.
+- Gave the Carnage to Mortar.
+- Moved dedicated drops: Thanatos to Boom Bewm, Wildcat to Boll, Guts to Dukino's Mom, Storm to Son of Craw.
+- Adjusted enemy use rocket launchers.
+- Reduced Captain Flynt's Sawbar projectile speed.
+- Increased Vermivorous dedicated drop odds.
+
+Other:
+- Added two new optional categories to the blcm file: Family Friendly Mode and Echo Log Spawns.
+- A couple bug fixes here and there you know how it goes.
+- Made some backend improvments to help reduce inconsistencies between certain attributes (namely FFYL time).
+- Added some sneaky secrets.
+
+
+
+-------------------------
+Open Beta v0.9.6a (4/8/24)
+-------------------------
+
+- Fixed the Zero move speed bug. Thank you to ZetaDaemon for the fix!
+
+
+
+=========================
+Open Beta v0.9.6 (4/6/24)
+=========================
+
+Player:
+- Added a new skill for Krieg, "Maintain the Mania", a 1-point skill at tier 5 in Mania. Significantly increases melee damage, significantly reduces bullet damage.
+- Krieg's Silence the Voices skill: Melee increase is lowered, but health penalty is replaced with shield capacity, rate, and delay penalties.
+- Krieg's Release the Beast skill: Activates at full hp. Can only toss one 'XL Buzzaxe' that deals high damage (and high blast jump power with Buzz Axe Bombardier).
+- Krieg's Thrill of the Kill skill: No longer grants a high bonus on the first skill point invested.
+- Krieg's Blood Trance skill: Adjusted stat values.
+- Krieg's Bloodsplosion skill: Bloodsplosions are no longer blocked by collision, and have slightly increased blast radius.
+- Axton's Resourceful skill: When you instantly kill an enemy with grenade damage, a grenade is refunded and you gain ammo regen.
+- Axton's Titanium Turret skill: Grants damage resistance and hp regen to your turret. While turret is active, you also gain hp regen.
+- Sal's Get Some skill: Hitting an enemy with a melee increases fire rate for 3 seconds.
+- Sal's Yipee Kay Yay skill: Now works as intended, healing increasing with skill grade.
+- Fixed a bug that caused Gaige's 20% Cooler to worsen shield recharge delay instead of improving it.
+
+Items:
+- Added a new variant of the Rocket Jumper. The old variant no longer drops, but can be found somewhere else in Eridium Blight.
+- Added a new variant of the Vault Hunter's Relic, named "True Vault Hunter's Relic". The old variant is found on new characters, the new variant drops from Saturn.
+- Added a new easter egg item "Milkman", which can be found among white rarity assault rifles.
+- World drop legendary rates have been adjusted so that non-weapon items drop slightly less frequently (still being fine tuned but this should be better for now).
+- Adjusted base weapon type stats: All RLs increased base damage, Torgue RL increased reload and mag, Hyperion SR increased damage and mag.
+- Improved shield recharge delay for all shields.
+- Jakobs sniper rifles are now bolt action across all rarities.
+- Class mod drops will now always match the player's class.
+- Fixed some unique item descriptions.
+- Fixed a fea- I mean, bug, that caused the rocket speed accessory for launchers not apply the rocket speed correctly.
+- Updates to Bone Shredder (and hybrid), Badaboom (and hybrid), Retcher, Norfleet, Seeker, Riveter, Columbo, Longest Yard (and hybrid), Matryoshka (and hybrid), 
+  Rocket Jumper, Bolas.
+
+Enemies:
+- Dedicated drop sources with multiple enemies involved have their drop odds slightly increased per enemy.
+- Moved Legendary Sickle drop source from Dukino's Mom to Old Slappy.
+- Boom Bewm's Swordsplosion projectiles have proper gravity. Updated the visual effects of child grenades. Fixed material.
+- Fixed Boll and King Mong dropping incorrect items.
+
+Other:
+- Renamed this file to Version History, and included a new Change List file that details almost every change made in the mod.
+- The optional category Minimap Red Dots is enabled by default.
+- Removed MOTD messages.
+
+
+
+=========================
+Open Beta v0.9.5 (1/29/24)
+=========================
+
+General:
+- Added shield boosters to health vendors.
+
+Player:
+- Axton's Sentry skill: Increases turret health instead of duration.
+- Maya's Restoration skill: Increases max health and grants lifesteal.
+- Maya's Res skill: Your health regen and lifesteal effects regen health more effectively, however your shield can no longer recharge over time.
+- Sal's Gunzerking (Action Skill): Reduced the reload speed penalty.
+- Sal's Last Longer skill: Increases FFYL time.
+- Sal's Come At Me Bro skill: While Gunzerking, gain gun damage, melee damage, fire rate, reload speed, and NE damage resistance. However, your health rapidly drains.
+- Sal's Yippe Kay Yay skill: While Gunzerking, killing an enemy with a crit restores health (currently work in progress, effect does not increase with skill grade.)
+- Gaige's 20% Cooler skill: Increases shield capacity, recharge rate, recharge delay, shock damage, and melee damamge.
+- Krieg's Blood Trance skill: Increases fire rate and decreases accuracy for each stack of bloodlust.
+- Krieg's Silence the Voices skill: Reduces max health instead of fire rate.
+- Updated some skill descriptions.
+
+Items:
+- Updates to Shotgun 1340, Shield 1340, Blood of Terra, Majima, Crossroad, Intervention, Alchemist.
+
+Enemies:
+- Added drops for Ancient Dragons.
+- Warrior can now drop any legendary item.
+- OMGWTH can now drop any pearl item.
+- Moved Inspire drop source from Boll to King Mong.
+- Reduced Captain Flynt's Sawbar fire rate and projectile speed.
+- Reduced Mad Mike's Mongol fire rate, increased Mad Mike's health.
+
+Other:
+- Added an optional category "Minimap Red Dots" in the .blcm file that allows you to toggle minimap red dots for enemies
+  (This will allow you to fix the issue of red dots remaining disbaled across sessions, even after disabling the mod itself).
+- Fixed Smash Head's Pyrophobia dropping.
+- Fixed raid bosses only being able to drop guns when dropping a legendary item.
+
+
+
+=========================
+Open Beta v0.9.4 (12/16/23)
+=========================
+
+General:
+- Updated UVHM balance. Enemy stats have been tweaked, and now become progressively stronger from levels 50-80. XP recieved also progressively increases.
+- Removed the text on the BAR bonus stats window, as this is actually no longer going to do anything.
+- Fixed certain unique enemies and many DLC enemies not using the correct weapons.
+
+Player:
+- Slightly increased player base movement speed.
+- Moved Gaige's Discord skill to tier 1. Slightly increased Smaller Faster Lighter stats, and is now capped at 3 points.
+
+Items:
+- Weapons and items capable of blast jumping now have weapon card presentations indicating their blast jump knockback power.
+- Adjusted blast jump knockback values for etech shotguns, alt barrel rocket launchers, alt barrel shotguns, tediore reloads, and some unique weapons.
+- Updated the golden chest in Sanctuary.
+- Updated the torgue vendor legendary item pool.
+- Changed a few common item names and unique item red texts.
+- Updates to Yellow Jacket, Overcompensator, Hot Mama, Thumpson, Pendulum, Rocket Jumper.
+
+Enemies:
+- Adjusted raid boss loot drops so they have their dedicated drops and seraph crystals available in all playthroughs. Raid bosses drop more crystals in TVHM and up.  
+  (Ancient Dragons still WIP).
+- Gave seraph crystal drops to Terramorphous, Vermivorous, Son of Craw, Haderax, and OMGWTH.
+- Gave new seraph dedicated drops to Terramorphous, Vermivorous, and Son of Craw.
+- Gave new pearl dedicated drops to Terramorphous, Vermivorous, Hyperius, Pyro Pete, Voracidous, and Son of Craw.
+- Gave new ?-?_??_-_? drops starting at lvl 80 to Terramorphous, Vermivorous, Hyperius, Pyro Pete, Voracidous, Son of Craw, Haderax, and OMGWTH.
+- Added new codex entries for raid bosses.
+
+Other:
+- Updated Apocalyptech's "BL2 Container Time Saver XL" mod to the latest version of "BL2 Mega TimeSaver XL" (which includes Gronp's "Faster Vehicle Animations" mod).
+
+
+
+=========================
+Open Beta v0.9.3 (8/8/23)
+=========================
+
+General:
+- Improved dark magic lifesteal and status effect health regen.
+- Adjusted rocket jumping knockback, generally increasing knockback for most weapons. Tediore reloads now deal knockback.
+
+Items:
+- Minor updates and description fixes to many unique items (there's a lot trust me).
+- Added a new orange Pangolin shield "Inspire", which drops from Boll.
+- Any items that were previously effervescent rarity are now legendary rarity, and the clown vomit skins are now gone.
+- Grenades fired from rocket barrel Dahl ARs now deal grenade splash damage.
+- Fixed emissive glow color on some unique shields to the legendary rarity glow.
+- Fixed some legendary class mods being yellow instead of orange.
+
+Enemies: 
+- Lowered the rate at which seraph crystals drop from regular enemies.
+- Changed Assassin Rouf's gun to the Hydra.
+- Changed Smash Head's gun to the Pyrophobia.
+- Fixed enemy Slagga stats.
+
+
+
+=========================
+Open Beta v0.9.2 (6/19/23)
+=========================
+
+General:
+- Reduced movement speed effects in some items and skills to compensate for the difference in how movement speeds were 
+  applied in the previous update, which resulted in these effects being more pronounced than intended.
+
+Player: 
+- Created new skills for Class Ability skills, restoring the old ones (even if some are still redundant for now).
+- Maya's class ability no longer increases jump height, but now increases dark magic status effect health regen.
+- Zero's class ability now increases jump height and reload speed.
+
+Items:
+- Added a new yellow Dahl AR "Sorceress", which drops from Madame Von Bartlesby.
+- Fixed game crashes related to booster shields.
+- Fixed masher pistol accuracy, as well as a bug that caused an accuracy penalty to apply to all equipped guns.
+- Healing projectiles spawned from alternate barrel sniper rifles and Chere-amie now work more consistently.
+- Adjusted sniper rifle scope zoom.
+- Added missing guns and coms to the world drop pool.
+- Added missing skins for Nucleus and Dracula.
+- Updates to Crit, Creamer, Maggie, Roaster (and hybrid part), Stomper (and hybrid part), Tunguska, Fabled Tortoise, 
+  Whiskey Tango Foxtrot, and Dracula.
+
+
+
+=========================
+Open Beta v0.9.1 (5/29/23)
+=========================
+
+General:
+- Snowbound now auto-enables in the mod menu.
+- Fixed issues with new characters not having certain essential passive effects applied.
+- Fixed minimap zoom.
+- Fixed Donkey Mong and Bad Maw codex entries.
+
+Player:
+- Salvador's class ability now grants him a small amount of ammo regen for all weapons
+- Reverted Gaige's Death From Above skill changes.
+
+Weapons:
+- Fixed PBFGs having low knockback.
+- Fixed a bug that allowed weapons that grant kill effects to stack multiple times.
+- Updates to Toothpick, Norfleet, Confetti, Damocles, Fortuna, Uke, Boom Stick, Sunflash Mace, and Super Shotgun.
+- Updated the descriptions for a lot of items.
+
+Enemies:
+- Changed Boom Bewm's Flakker to a new firing mode.
+- Changed Control Core Angel shock field generators health, it's no longer invincible, but still strong.
+
+Special thanks to ZetaDaemon for various fixes!
+
+
+
+=========================
+Open Beta v0.9 (4/2/23)
+=========================
+
+- First version of the mod is out let's goooo

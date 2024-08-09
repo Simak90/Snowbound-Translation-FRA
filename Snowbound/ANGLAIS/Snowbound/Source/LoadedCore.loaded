@@ -1,0 +1,43 @@
+- SB Skill Attributes
+#GD_Soldier_Streaming_SF
+D_Attributes.SkillAttributes.CanThrowGrenadesWhileInDownState
+
+#GD_Siren_Streaming_SF
+GD_Siren_Skills.Harmony.MindsEye
+
+
+- Skills
+#GD_Mercenary_Streaming_SF
+GD_Mercenary_Skills.Rampage.GetSome:BehaviorProviderDefinition_3
+
+
+- Skill Icons
+#GD_Tulip_Mechro_Streaming_SF
+UI_Tulip_SharedSkillIcons_Mech.SkillIcon-Mechro02
+
+#GD_Assassin_Streaming_SF
+SharedSkillIcons_Assassin.SkillIcon-DeathsMark
+
+#GD_Assassin_Streaming_SF
+SharedSkillIcons_Assassin.SkillIcon-KillConfirmed
+
+#GD_Soldier_Streaming_SF
+SharedSkillIcons_Soldier.SkillIcon-Steady
+
+#GD_Soldier_Streaming_SF
+SharedSkillIcons_Soldier.SkillIcon-Ranger
+
+#GD_Mercenary_Streaming_SF
+SharedSkillIcons_Mercenary.SkillIcon-Incite
+
+#GD_Lilac_Psycho_Streaming_SF
+UI_Lilac_SharedSkillIcons_Psyc.SkillIcon-Psycho03
+
+#GD_Mercenary_Streaming_SF
+SharedSkillIcons_Mercenary.SkillIcon-LayWaste
+
+
+- Echo Logs
+#GD_Soldier_Streaming_SF
+GD_DefaultProfiles.IntroEchos.BD_SoldierIntroEcho
+GD_DefaultProfiles.IntroEchos.ID_SoldierIntroECHO

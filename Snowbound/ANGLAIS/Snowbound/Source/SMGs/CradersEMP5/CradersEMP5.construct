@@ -1,0 +1,9 @@
+#WeaponBalanceDefinition
+GD_Weap_SMG.A_Weapons_Unique.SMG_Dahl_3_Lascaux SMG_Dahl_Crader
+#WeaponPartDefinition
+GD_Weap_SMG.Barrel.SMG_Barrel_Bandit_Lascaux SMG_Barrel_Crader
+GD_Weap_SMG.ManufacturerMaterials.Mat_Dahl_3_Lascaux Mat_Dahl_Crader
+#FiringModeDefinition
+GD_Weap_SMG.FiringModes.Bullet_SMG_Default Bullet_Crader
+#WeaponNamePartDefinition
+GD_Weap_SMG.Name.Title.Title__Unique_Lascaux Title_Crader

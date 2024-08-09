@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Flax.Psycho.FlaxPumpkinHeads
+ItemPoolDefinition None
+InvBalanceDefinition GD_Weap_AssaultRifle.A_Weapons_Legendary.AR_Vladof_5_Balance
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

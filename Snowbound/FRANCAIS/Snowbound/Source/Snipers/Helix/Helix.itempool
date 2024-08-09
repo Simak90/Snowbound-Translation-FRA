@@ -1,0 +1,10 @@
+/None
+#GD_CustomItemPools_Lilac.Psycho.Head2
+ItemPoolDefinition None
+InvBalanceDefinition GD_Orchid_BossWeapons.SniperRifles.Sniper_Maliwan_3_Helix
+BaseValueConstant 0.000000
+BaseValueAttribute None
+InitializationDefinition AttributeInitializationDefinition'GD_Balance.Weighting.Weight_1_Common'
+BaseValueScaleConstant 1.000000
+bDropOnDeath True
++

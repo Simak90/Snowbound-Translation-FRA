@@ -1,0 +1,210 @@
+BL2 Snowbound Liste de changements - Release v1.0.0
+
+=======================
+Sommaire de la Liste
+=======================
+1 - Joueur
+2 - Objets
+3 - Ennemis
+4 - Butin
+5 - Général
+6 - Mods inclus
+7 - Options
+
+
+
+=======================
+1 - Joueur
+=======================
+
+- Sprint désactivé. La vitesse de marche a été augmentée pour être plus rapide que la vitesse de sprint en vanilla.
+- Amélioré le contrôle dans les airs (ressemble aux jeux Source).
+- Masse réduite, ce qui augmente le taux de recul reçu.
+- Durée du CPLS réduite, mais le joueur régénère sa santé et son bouclier au complet à la réanimation.
+- Seuil de la Health gate réduit.
+- Chaque chasseur de l'arche a maintenant une compétence unique, qui sera toujours active et n'a aucun pré-requis.
+    - Axton: Peut lancer des grenades en CPLS.
+    - Maya: Régén. PV de l'élément Magie Noire augmentée, durée CPLS augmentée.
+    - Zero: Hauteur de saut augmentée, recharge plus rapidement.
+    - Salvador: Régénère en continu une petite portion de toutes les munitions.
+    - Gaige: Masse réduite (permettant à Gaige de blast jump plus loin), les attaques au corps-à-corps font des dégâts électriques.
+    - Krieg: Portée des attaques de mêlée augmentée.
+- Changements des compétences d'action:
+    - Axton: La tourelle peut être rappelée à n'importe quelle distance en utilisant le bouton de compétence d'action (ne peut plus interagir avec la tourelle). Durée infinie.
+      Cooldown réduit à 18s.
+    - Salvador: Défouraillage maintenant commutable (on/off) et a une durée infinie. Pendant le défouraillage, votre bouclier se décharge et votre précision + vitesse de rechargement baissent.
+      Cooldown réduit à 3s.
+    - Krieg : Carnage à la Buzzaxe maintenant commutable (on/off) et a une durée infinie. Cooldown réduit à 5s.
+    - Gaige: Le piègemort peut être rappelé à n'importe quelle distance en utilisant le bouton de la compétence d'action. Cooldown réduit à 25s.
+- Changements des compétences de Salvador:
+    - Mise au poing: Cooldown réduit à 0.5s.
+    - Amène-toi, connard !: Pendant le Défouraillage, vous augmentez vos dégâts d'armes, dégâts au corps-à-corps, cadence de tir, vitesse de rechargement, et résistance aux dégâts non-élémentaux.
+      Cependant, vos PV sont draînés rapidement.
+    - Toujours prêt: Augmente le taux de rechargement et baisse le délai de rechargement du bouclier.
+    - C'est chaud bouillant !: Quand vous tuez un ennemi en une balle, votre vitesse de rechargement est augmentée pour une courte durée.
+    - Plus c'est long...: Augmente la durée du CPLS.
+    - Et Bim !: Frapper un ennemi au corps-à-corps augmente votre cadence de tir pendant 3s.
+    - Yipi Kaï: Pendant le Défouraillage, tuer un ennemi avec un coup critique restaure des PV.
+- Changements des compétences de Maya:
+    - Régénération: Accorde du vol de vie.
+    - Réanimation: Toute source de régénération de PV et de vol de vie sont plus efficaces, mais votre bouclier cessera de se recharger automatiquement.
+- Changements des compétences d'Axton:
+    - Débrouillard: Quand vous tuez instantanément un ennemi avec des dégâts de grenade, vous récupérez une grenade et bénéficiez de régén. de munitions.
+    - Impact: Changement de dégâts des armes à dégâts explosifs.
+    - Sur le front: Changement de dégâts des armes à dégâts explosifs.
+    - Appel du devoir: Des armes non élémentales et des armes explosives.
+    - Ranger: Changement de dégâts des armes à dégâts explosifs.
+    - Lui ou vous: Augmentation des dégâts des grenades et des lance-roquettes.
+    - Sentinelle: Augmente la santé de la tourelle au lieu de la durée de la compétence.
+    - Jumelles: Renommée en Tourelle de titane. Accorde de la résistance aux dégâts et de la régén. de PV à votre tourelle. Vous bénéficiez d'une régénération de PV quand votre tourelle est en place.
+- Changements des compétences de Gaige:
+    - Anarchie: Les stacks sont condensés, où 1 stack équivaut à 10 stacks en vanilla (Chaque stack accorde +17.5% dégâts, -17.5% précision, max. 15 stacks).
+      Toutes les compétences utilisant l'anarchie ont été ajustées en accordance avec ce changement.
+    - Discorde: Déplacé au Tier. Effets augmentés.
+    - Petit, Léger, Rapide: Max. 3 points de compétences. Effets augmentés.
+    - 20% plus vite: Augmente la capacité du bouclier, le taux de rechargement du bouclier, les dégâts électriques, les dégâts de mêlée, baisse le délai de recharge du bouclier.
+- Changements des compétences de Krieg:
+    - Ajout d'une nouvelle compétence "Folie sans fin", max. 1 point, Tier 5. Augmente remarquablement les dégâts au corps-à-corps, baisse remarquablement les dégâts des balles.
+    - Bombardier Buzz Axe: Peut être utilisé pour blast jump.
+    - Transe sanglante: Augmente la cadence de tir et baisse la précision pour chaque cumul de Soif de sang
+    - Explosion de sang: Les explosions de sang ne sont plus bloquées par les collisions, et ont une zone d'effet augmentée.
+    - Carnage soutenu: Frapper un ennemi au corps-à-corps augmente la vitesse de déplacement et les dégâts des grenades.
+    - Frisson mortel: Nerf du bonus au niveau 1 de la compétence.
+    - Rachat de l'âme: Vous pouvez lancer des grenades en CPLS, Augmente la durée de CPLS, la vitesse de déplacement et les dégâts de grenades en CPLS.
+    - Voix silencieuses: Baisse des dégâts au corps-à-corps, baisse la capacité du bouclier et le taux de rechargement, augmente le délai de recharge du bouclier. Krieg ne se frappe plus.
+    - Lâcher la bête: S'active au maximum des PV, ne peut que lancer une "Buzzaxe XL" qui aura des dégâts augmentés (et une puissance d'explosion -- pour blast jump -- augmentée avec Bombardier Buzz Axe).
+    - Haleine infernale: Vitesse d'animation augmentée, permettant d'exécuter d'autres actions en simultané.
+
+=======================
+2 - Objets
+=======================
+
+- Ajout de 70+ objets uniques.
+    - Aucun remplacement!
+- Chaque arme non-unique peut apparaître avec des nouveaux canons qui changent la manière dont l'arme tire.
+- Beaucoup d'armes, grenades et plus peuvent être utilisés pour blast jump. La puissance de blast jump d'un objet est citée sur la carte de l'objet.
+- Changements généraux des armes:
+    - Ajustements faits sur les stats de base de chacune des armes (Spreadsheet WIP, bientôt disponible!).
+    - Vitesse des balles augmentée pour beaucoup de types d'armes.
+    - Les snipers ont une vitesse de visée augmentée, et la crosshair ne bougera pas subtilement lors de la visée.
+    - Les munitions de roquettes sont considérées comme des munitions communes, à l'effigie des autres munitions hormis les grenades.
+- Changements des composants:
+    - Ajustements faits sur les stats de base de chacun des composants (Spreadsheet WIP, bientôt disponible!).
+    - Les bonus sur la concordance de la manufacture ont été supprimés.
+- Items uniques:
+    - Plein d'objets uniques vanilla ont été modifiés ou passés sous un rework. Chaque item unique aura une description en-dessous du texte rouge qui explicitera ses effets.
+    - La rareté légendaire a été divisée en deux, jaune et orange. Les légendaires jaunes sont moins rares que les oranges, en world drop comme en loot dédié.
+      Les jaunes seront des items avec des stats altérées et effets mineurs, tandis que les oranges auront des gimmicks notables.
+      Tout objet qui était bleu ou violet en vanilla est maintenant légendaire.
+    - Toute arme unique a une chance d'apparaître avec un composant hybride. Cela donne les effets d'une autre arme unique. Les items hybrides auront des préfixes uniques
+      et auront un deuxième texte rouge sur la carte de l'objet. Chaque type d'arme a 3 hybrides disponibles.
+- Éléments:
+    - L'élément de Magie noire peut être trouvé comme un nouvel élément sur les armes. Ces armes accordent du vol de vie, et de la régén. de PV lorsqu'un effet de statut est infligé.
+    - L'élément de Slag ne rend pas l'ennemi vulnérable. À la place, il ralentira les projectiles et baissera les dégâts de l'ennemi.
+    - Les effets de statut de feu, électricité, corrosion dureront 6 secondes.
+
+=======================
+3 - Ennemis
+=======================
+
+- Les balles de ennemis sont plus lentes et auront des VFX plus clairs.
+- Augmenté les chances d'ennemis utilisant une armede qualité élevée.
+- Vitesse d'animation et de déplacement des ennemis augmentée.
+- Un ennemi qui reçoit du recul ne jouera plus d'animation à l'atterissage.
+- Les boss et certains ennemis seront équipés de nouvelles armes uniques.
+
+=======================
+4 - Butin
+=======================
+
+Note:
+Les sources de butin dédié peuvent être trouvées sur ce spreadsheet : https://docs.google.com/spreadsheets/d/19WyUAAnWkFN9miO_1NODpJqXRatQis4ZNDLJALc2vHk/edit?usp=sharing
+Cependant, je vous encourage de NE PAS utiliser ce spreadsheet! L'onglet "Défis" a été remplacé par le Codex. Il identifiera chaque source de drop dédié,
+et montrera le nombre de drops qu'elles auront. C'est la meilleure façon de trouver du butin dédié sans spoiler.
+
+- Ajustement du poids des raretés, les objets de qualité bleu ou supérieur sont plus communs.
+- Tous les légendaires et perlés sont maintenant du world drop (à l'effigie de Borderlands 3).
+- Les boss de raid peuvent looter tout leur butin dans n'importe quelle campagne. Les campagnes plus élevées ne donneront que plus de cristal de séraphin.
+- Changements sur les butin dédiés:
+    - Tous les drops dédiés sont indépendants les uns des autres, ce qui veut dire que plusieurs butins dédiés peuvent apparaître en une run.
+    - Chances d'un légendaire jaune : 25%.
+    - Chances d'un légendaire orange : 15%.
+    - Chances d'un mode de classe légendaire : 5%.
+    - Chances d'un mode de classe Tina : 25% (n'importe quelle rareté).
+    - Les boss de raid lâchent du séraphin à coup sûr, mais seulement 1 par run.
+    - Les boss de raid ont 33% de chances de lâcher du perlé, mais seulement 1 par run.
+- Changements des coffres dorés:
+    - Coût: 5 cristaux de séraphin.
+    - A une chance de donner des objets violets, des armes de type gemme, des armes E-Tech, et des objets légendaires.
+    - A une chance de donner des objets perlés en Chasseur Ultime 2 (UVHM en anglais).
+- De nouveaux coffres sont apparus dans les maps suivantes:
+    - Southern Shelf
+    - Southern Shelf Bay
+    - Southpaw Steam & Power
+	- Frostburn Canyon
+	- Tundra Express
+	- Highlands Outwash
+	- Caustic Caverns
+	- Wildlife Exploitation Preserve
+	- Opportunity
+	- Thousand Cuts
+	- The Bunker
+	- Sawtooth Cauldron
+	- Vault of the Warrior
+	- Digistruct Peak
+- Tous les ennemis auront une infime chance de lâcher un cristal de séraphin. Les ennemis de tier de brutasserie plus hauts auront une chance plus élevée d'en donner.
+- Les machines de vente Torgue auront une loot pool de légendaire plus grande.
+
+=======================
+5 - Général
+=======================
+
+- De nouveaux journaux ECHO ont été placés sur différentes maps, ce qui expliquera un peu le lore sur l'histoire derrière Snowbound.
+- L'onglet des Défis a été remplacé par le Codex. Il identifiera chaque source de drop dédié, et le nombre de drops qu'ils ont.
+- Les ennemis lâcheront plus fréquemment de la santé et des recharges de bouclier, ces consommables brilleront, permettant au joueur de mieux les voir.
+- Changements sur la croissance:
+    - Ajustement de la formule universelle de la croissance (de 1.13 à 1.10, ce qui ressemble au scaling de BL:TPS).
+    - Ajustement de la croissance pour les PV, le bouclier du joueur, et pour les PV des ennemis.
+    - Ajustement des multiplicateurs de dégâts en proportion avec la différence de niveau entre le joueur et l'entité.
+    - Ajustement de la croissance du mode Chasseur Ultime 2 (UVHM en anglais). Les ennemis seront de plus en plus forts entre les niveaux 50-80.
+- Couleurs de rareté:
+    - Divisé le légendaire en jaune/orange.
+    - Changé la couleur de l'argent en vert pâle.
+    - Changé la couleur des boosters de bouclier en bleu pâle.
+    - La rareté effervescente a été supprimée (pour l'instant), tous les items effervescents sont devenus des légendaires.
+- Ajustement de la capacité des munitions de base et des améliorations SDU (vendus par Earl).
+- Les ennemis réapparaissent en changeant de map.
+- Distance de l'interaction et du ramassage augmentée.
+- Les stations de voyage rapide à un sens sont maintenant à double sens, on peut y voyager.
+- Suppression des bonus de brutasse.
+
+=======================
+6 - Mods inclus
+=======================
+
+Snowbound inclut différents mods. Tous les mods sont utilisés avec la permission de leur auteur. Ces mods sont:
+- Unofficial Community Patch 5 (par Shadowevil et the UCP team)
+- Fast Travel Portal Disabler (par FromDarkHell)
+- Respawning Enemies et Allies (par Our Lord & Savior Gabe Newell)
+- No More Enemy Bullet Reflection (par Aaron0000)
+- Vendors Enhanced (par Kuma, Jim Raven, et the_Nocturni)
+- BL2 Mega TimeSaver XL (par Apocalyptech et Gronp)
+- Manufacturer Sorted Vending Machines (par Our Lord & Savior Gabe Newell)
+- BL2 Early Bloomer (par Apocalyptech)
+- Remove Level Variance (de BL2 Reborn, par Kuma)
+
+La compatibilité avec d'autres mods n'est pas garantie et peut causer des événements non voulus.
+Pour ajouter d'autres mods à côté de Snowbound, ouvrez SB.blcm dans OpenBLCMM et appuyez sur File > Import Mod Files.
+
+=======================
+7 - Optionnels
+=======================
+
+Dans le dossier "Source", en ouvrant le fichier "SB.blcm" avec OpenBLCMM montrera des options sur le mod que vous pourrez configurer.
+Étendre la catégorie "Optional Settings" et sélectionner les options disponibles:
+- Shield Charge Auto Pickup: Décide si les charges de boucliers doivent être récupérées automatiquement. Activé par défaut.
+- Minimap Red Dots: Améliore la visibilité des points rouges sur la minimap. Activé par défaut.
+- Family Friendly Mode: Permet de retirer les insultes des textes d'armes et autres. Vulgarité activée par défaut.
+- Viewmodel Style: Change la vision du joueur. Regular par défaut.
+- Echo Log Spawns: Décide de si les nouveaux journaux ECHO apparaissent dans le monde. Activé par défaut.
+- No Checkpoint Mode: Empêche le joueur de réapparaître à une station New-U, l'obligeant à quitter la partie pour revenir. Checkpoints activés par défaut.

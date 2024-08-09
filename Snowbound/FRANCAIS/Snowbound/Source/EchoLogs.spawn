@@ -1,0 +1,143 @@
+- Uhh spoilers btw
+
+- Subtract 90 from z
+- 16000 Roll will having it laying down face up
+- Positive yaw tilts right, negative tilts left
+
+/Glacial_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho1 (X=25892, Y=18935, Z=7590) (Pitch=0, Yaw=-4000, Roll=16000) (0, 0)
+
+/SouthernShelf_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho2 (X=31152, Y=-21220, Z=1049) (Pitch=0, Yaw=26000, Roll=16000) (0, 0)
+
+/Ice_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho3 (X=-37066, Y=52982, Z=-514) (Pitch=1500, Yaw=-14000, Roll=16000) (0, 0)
+
+/Sanctuary_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho4 (X=-6811, Y=-6482, Z=3124) (Pitch=0, Yaw=0, Roll=16000) (0, 0)
+
+/Sanctuary_Hole_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho4 (X=-6811, Y=-6482, Z=3124) (Pitch=0, Yaw=0, Roll=16000) (0, 0)
+
+/TundraExpress_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho5 (X=-36614, Y=12978, Z=2660) (Pitch=-3000, Yaw=-3000, Roll=9000) (0, 0)
+
+/Grass_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho6 (X=68854, Y=3826, Z=150) (Pitch=0, Yaw=29000, Roll=16000) (0, 0)
+
+/Grass_Cliffs_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho7 (X=15951, Y=12530, Z=8873) (Pitch=0, Yaw=0, Roll=16000) (0, 0)
+
+/Grass_Cliffs_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho7b (X=13710, Y=15289, Z=8873) (Pitch=0, Yaw=13000, Roll=16000) (0, 0)
+
+/Ash_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_GearyEcho8 (X=-1344, Y=-46890, Z=1005) (Pitch=0, Yaw=5000, Roll=16000) (0, 0)
+
+/Frost_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_InterludeEcho_Marcus (X=17438, Y=-8438, Z=3181) (Pitch=0, Yaw=15000, Roll=16000) (0, 0)
+
+/SouthpawFactory_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditEcho_Southpaw (X=-4291, Y=20739, Z=-6064) (Pitch=0, Yaw=7000, Roll=16000) (0, 0)
+
+/SouthernShelf_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditEcho_Flynt (X=72230, Y=-41702, Z=6436) (Pitch=0, Yaw=7000, Roll=16000) (0, 0)
+
+/dam_p
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditEcho_Bloodshot (X=-4355, Y=8347, Z=-1017) (Pitch=0, Yaw=-29000, Roll=16000) (0, 0)
+
+/Interlude_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditEcho_Dust (X=10062, Y=48948, Z=-228) (Pitch=0, Yaw=-3000, Roll=18000) (0, 0)
+
+/CraterLake_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditEcho_Sawtooth (X=26370, Y=41005, Z=5374) (Pitch=0, Yaw=-1500, Roll=16000) (0, 0)
+
+/Fridge_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypEcho_Fridge (X=696, Y=18121, Z=10010) (Pitch=0, Yaw=0, Roll=16000) (0, 0)
+
+/HyperionCity_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypEcho_Opportunity (X=24367, Y=-3507, Z=1725) (Pitch=0, Yaw=32000, Roll=16000) (0, 0)
+
+/FinalBossAscent_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypEcho_HeroPass (X=21679, Y=-15465, Z=6269) (Pitch=0, Yaw=0, Roll=16000) (0, 0)
+
+/Orchid_Refinery_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypEcho_Hyperius1 (X=42975, Y=555, Z=2230) (Pitch=0, Yaw=-16384, Roll=16000) (0, 0)
+
+/Orchid_Refinery_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypEcho_Hyperius2 (X=42975, Y=595, Z=2230) (Pitch=0, Yaw=-16384, Roll=16000) (0, 0)
+
+/PandoraPark_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_Samuels_Wildlife1 (X=-32720, Y=66786, Z=-1551) (Pitch=0, Yaw=4000, Roll=16000) (0, 0)
+
+/PandoraPark_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_Samuels_Wildlife2 (X=-26156, Y=11651, Z=-1442) (Pitch=0, Yaw=-4000, Roll=16000) (0, 0)
+
+/PandoraPark_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_Samuels_Wildlife3 (X=-21619, Y=40459, Z=431) (Pitch=0, Yaw=-12000, Roll=16000) (0, 0)
+
+/Sanctuary_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_TannisMap (X=12928, Y=830, Z=4331) (Pitch=0, Yaw=16384, Roll=16000) (0, 0)
+
+/Sanctuary_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditMap (X=12352, Y=1057, Z=4301) (Pitch=0, Yaw=5000, Roll=16000) (0, 0)
+
+/Sanctuary_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypMap (X=13125, Y=307, Z=4336) (Pitch=0, Yaw=32000, Roll=16000) (0, 0)
+
+/Sanctuary_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_MiscMap (X=12673, Y=1353, Z=4346) (Pitch=0, Yaw=3000, Roll=16000) (0, 0)
+
+/SanctuaryAir_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_TannisMap (X=12928, Y=830, Z=4338) (Pitch=0, Yaw=16384, Roll=16000) (0, 0)
+
+/SanctuaryAir_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_BanditMap (X=12352, Y=1057, Z=4301) (Pitch=0, Yaw=5000, Roll=16000) (0, 0)
+
+/SanctuaryAir_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_HypMap (X=13125, Y=307, Z=4336) (Pitch=0, Yaw=32000, Roll=16000) (0, 0)
+
+/SanctuaryAir_P
+#InventoryBalanceDefinition
+GD_DefaultProfiles.IntroEchos.BD_MiscMap (X=12673, Y=1353, Z=4346) (Pitch=0, Yaw=3000, Roll=16000) (0, 0)
+
+/TundraExpress_P
+#InventoryBalanceDefinition
++ cond_mission_completed_true=GD_Lobelia_TestingZone.M_TestingZone
+GD_Artifacts.A_Item_Unique.A_15122311212131776 (X=4385, Y=-2571, Z=-184043) (Pitch=0, Yaw=0, Roll=0) (0, 0)
+
+/TestingZone_P
+#InventoryBalanceDefinition
++ cond_mission_completed_true=GD_Lobelia_TestingZone.M_TestingZone
+GD_DefaultProfiles.IntroEchos.BD_RS (X=29085, Y=20558, Z=6740) (Pitch=0, Yaw=25000, Roll=0) (0, 0)
